@@ -3,7 +3,7 @@ import requests as r
 
 root = 'http://lvogel.free.fr/tokipona/'
 
-with open('index.html', 'wb') as fd:
+with open('src/index.html', 'wb') as fd:
     fd.write(r.get(root).content)
 
 for x in range(1, 10):
