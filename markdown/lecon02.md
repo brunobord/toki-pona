@@ -6,16 +6,24 @@
 Vocabulaire
 -----------
 
-+--------------------------------------+--------------------------------------+
-| **Noms/pronoms**\                    | **Verbes/adjectifs**\                |
-|  **jan** - une personne, quelqu'un,  |  **moku** - manger, boire\           |
-| etc.\                                |  **pona** - bon, simple; réparer\    |
-|  **mi** - je, moi, nous\             |  **suli** - grand, important         |
-|  **moku** - nourriture\              |                                      |
-|  **sina** - tu, toi, vous\           | **Particule**\                       |
-|  **suno** - soleil, lumière\         |  **li** - sépare le sujet du verbe   |
-|  **telo** - eau, liquide             | (voir plus bas)                      |
-+--------------------------------------+--------------------------------------+
+### Noms/pronoms
+
+-  **jan** - une personne, quelqu'un, etc.
+-  **mi** - je, moi, nous
+-  **moku** - nourriture
+-  **sina** - tu, toi, vous
+-  **suno** - soleil, lumière
+-  **telo** - eau, liquide
+
+### Verbes / adjectifs
+
+- **pona** - bon, simple; réparer
+- **moku** - manger, boire etc.
+- **suli** - grand, important
+
+### Particule
+
+- **li** - sépare le sujet du verbe (voir plus bas)
 
 Phrases avec *mi* ou *sina* comme sujet
 ---------------------------------------
@@ -87,7 +95,7 @@ entre le présent, le passé, le futur, le conditionnel, etc.
 
 -   **mi moku.** - Je mange / mangeais / mangerai / *etc.*
 
-(On verra en [leçon 16](lecon16) comment indiquer que l'action se passe
+(On verra en [leçon 16](lecon16.md) comment indiquer que l'action se passe
 dans le passé, le présent, ou le futur.)
 
 Phrases dont le sujet est autre que *mi* ou *sina*
@@ -122,22 +130,23 @@ est *mi* ou *sina*. En revanche *li* est présent devant le second verbe,
 Exercices
 ---------
 
-Traduisez ces phrases du français au toki pona.\
+Traduisez ces phrases du français au toki pona.
 
-  --------------------- -------------------------
-  Les gens sont bons.   Réponse : jan li pona.
-  Je mange.             Réponse : mi moku.
-  Tu es grand.          Réponse : sina suli.
-  L'eau est simple.     Réponse : telo li pona.
-  Le lac est grand.     Réponse : telo li suli.
-  --------------------- -------------------------
+| Français             | Réponses                |
+| -------------------- | -------------------------
+| Les gens sont bons.  | jan li pona.
+| Je mange.            | mi moku.
+| Tu es grand.         | sina suli.
+| L'eau est simple.    | telo li pona.
+| Le lac est grand.    | telo li suli.
 
-Et maintenant essayez de traduire du toki pona en français.\
+Et maintenant essayez de traduire du toki pona en français.
 
-  ------------------- ----------------------------------------------------------
-  suno li suli.       Réponse : Le soleil est grand.
-  sina jan li suli.   Réponse : Tu est une personne et tu es important / gros.
-  jan li moku.        Réponse : Quelqu'un mange / les gens mangent.
-  ------------------- ----------------------------------------------------------
+| toki pona           | Réponses |
+| ------------------- | --------------------------------------------------
+| suno li suli.       | Le soleil est grand.
+| sina jan li suli.   | Tu es une personne et tu es important / gros.
+| jan li moku.        | Quelqu'un mange / les gens mangent.
+
 
 [précédent](lecon01.md) | [sommaire](lecons.md) | [suivant](lecon03.md)
