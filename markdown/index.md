@@ -33,7 +33,7 @@ Sommaire
 (les numéros de chapitre ne coïncident ni avec la numérotation de jan
 Pije, ni avec celle de Jim Henry.)
 
--   [1. Prononciation et ortographe](lecon01.md)
+-   [1. Prononciation et orthographe](lecon01.md)
 -   [2. Premières phrases](lecon02.md)
 -   [3. Complément d'objet direct](lecon03.md)
 -   [4. Adjectifs, adverbes et noms composés](lecon04.md)

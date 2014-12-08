@@ -21,7 +21,7 @@ optionnel.
 La consonne initiale est optionnelle si la syllabe est la première
 syllabe du mot. Une syllabe se terminant par **n** ne peut pas être
 suivie par une syllabe commençant par **n** ou **m**. Les quatre
-combinaisons **\*ji**, **\*ti**, **\*wo** et **\*wu** sont interdites à
+combinaisons **ji**, **ti**, **wo** et **wu** sont interdites à
 cause de leur difficulté de prononciation.
 
 L'accent est toujours sur la première syllabe.
@@ -54,7 +54,7 @@ Les signes de ponctuation suivants sont employés en fin de phrase :
 point (**.**), point d'exclamation (**!**), point d'interrogation
 (**?**) et deux-points (**:**). Le toki pona n'utilise pas de
 point-virgule et assez peu la virgule (mais il y a un cas où la virgule
-est obligatoire,après un vocatif, cf [leçon 8](lecon08.md)). On
+est obligatoire, après un vocatif, cf [leçon 8](lecon08.md)). On
 applique les règles de typographie anglaise : les signes de ponctuation
 sont collés au mot qui précède. Exemples :
 
