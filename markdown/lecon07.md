@@ -1,5 +1,4 @@
-[précédent](lecon06.html) | [sommaire](lecons.html) |
-[suivant](lecon08.html)
+[précédent](lecon06.md) | [sommaire](lecons.md) | [suivant](lecon08.md)
 
 7. Négation; questions simples
 ==============================
@@ -149,5 +148,4 @@ Et maintenant essayez de traduire du toki pona en français.\
   sina ken ala ken kama?                  Réponse : Peux-tu venir?
   --------------------------------------- ------------------------------------------------------
 
-[précédent](lecon06.html) | [sommaire](lecons.html) |
-[suivant](lecon08.html)
+[précédent](lecon06.md) | [sommaire](lecons.md) | [suivant](lecon08.md)

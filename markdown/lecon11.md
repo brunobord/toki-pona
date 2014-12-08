@@ -1,5 +1,4 @@
-[précédent](lecon10.html) | [sommaire](lecons.html) |
-[suivant](lecon12.html)
+[précédent](lecon10.md) | [sommaire](lecons.md) | [suivant](lecon12.md)
 
 11. Conjonctions; *kin*; température
 ====================================
@@ -173,5 +172,4 @@ Et maintenant essayez de traduire du toki pona en français.\
   sina wile toki tawa mije anu meli?     Réponse : Tu veux parler à la fille ou au garçon?
   -------------------------------------- -----------------------------------------------------
 
-[précédent](lecon10.html) | [sommaire](lecons.html) |
-[suivant](lecon12.html)
+[précédent](lecon10.md) | [sommaire](lecons.md) | [suivant](lecon12.md)

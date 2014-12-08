@@ -1,5 +1,5 @@
-[précédent](lecon04.html) | [sommaire](lecons.html) |
-[suivant](lecon06.html)
+[précédent](lecon04.md) | [sommaire](lecons.md) |
+[suivant](lecon06.md)
 
 5. Prépositions *lon*, *kepeken*, et *tawa*
 ===========================================
@@ -270,5 +270,4 @@ Et maintenant essayez de traduire du toki pona en français.\
   sina kama jo e jan pona lon ni.                Réponse : Tu obtiendra des amis là bas. Tu t'y feras des amis
   ---------------------------------------------- -----------------------------------------------------------------------------------------
 
-[précédent](lecon04.html) | [sommaire](lecons.html) |
-[suivant](lecon06.html)
+[précédent](lecon04.md) | [sommaire](lecons.md) | [suivant](lecon06.md)

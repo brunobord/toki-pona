@@ -1,4 +1,4 @@
-[sommaire](lecons.html) | [suivant](lecon02.html)
+[sommaire](lecons.md) | [suivant](lecon02.md)
 
 1. Prononciation et orthographe
 ===============================
@@ -54,7 +54,7 @@ Les signes de ponctuation suivants sont employés en fin de phrase :
 point (**.**), point d'exclamation (**!**), point d'interrogation
 (**?**) et deux-points (**:**). Le toki pona n'utilise pas de
 point-virgule et assez peu la virgule (mais il y a un cas où la virgule
-est obligatoire,après un vocatif, cf [leçon 8](lecon08.html)). On
+est obligatoire,après un vocatif, cf [leçon 8](lecon08.md)). On
 applique les règles de typographie anglaise : les signes de ponctuation
 sont collés au mot qui précède. Exemples :
 
@@ -68,4 +68,4 @@ Il n'y a pas de règle concernant les guillemets. Les textes simples
 n'utilisent pas de guillemets, mais certains mettent des guillemets sans
 qu'une règle n'ait été décidée.
 
-[sommaire](lecons.html) | [suivant](lecon02.html)
+[sommaire](lecons.md) | [suivant](lecon02.md)

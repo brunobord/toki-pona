@@ -1,5 +1,4 @@
-[précédent](lecon11.html) | [sommaire](lecons.html) |
-[suivant](lecon13.html)
+[précédent](lecon11.md) | [sommaire](lecons.md) | [suivant](lecon13.md)
 
 12. Couleurs
 ============
@@ -89,5 +88,4 @@ Et maintenant essayez de traduire du toki pona en français.\
   ona li kule e tomo tawa.    Réponse : il peint la voiture.
   --------------------------- -----------------------------------------
 
-[précédent](lecon11.html) | [sommaire](lecons.html) |
-[suivant](lecon13.html)
+[précédent](lecon11.md) | [sommaire](lecons.md) | [suivant](lecon13.md)

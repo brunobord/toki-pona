@@ -1,5 +1,4 @@
-[précédent](lecon01.html) | [sommaire](lecons.html) |
-[suivant](lecon03.html)
+[précédent](lecon01.md) | [sommaire](lecons.md) | [suivant](lecon03.md)
 
 2. Premières phrases
 ====================
@@ -55,7 +54,7 @@ les détails.
 
 Le toki pona est ambigu d'une autre façon : il ne permet pas de dire si
 un mot est singulier ou au pluriel. Par exemple, *jan* peut dire soit
-« une personne » ou « les gens ». On verra en [leçon 4](lecon04.html)
+« une personne » ou « les gens ». On verra en [leçon 4](lecon04.md)
 une façon d'indiquer explicitement le pluriel, mais cette méthode est
 facultative : ce n'est pas parce qu'on n'indique pas le pluriel que le
 mot n'est pas pluriel.
@@ -141,5 +140,4 @@ Et maintenant essayez de traduire du toki pona en français.\
   jan li moku.        Réponse : Quelqu'un mange / les gens mangent.
   ------------------- ----------------------------------------------------------
 
-[précédent](lecon01.html) | [sommaire](lecons.html) |
-[suivant](lecon03.html)
+[précédent](lecon01.md) | [sommaire](lecons.md) | [suivant](lecon03.md)

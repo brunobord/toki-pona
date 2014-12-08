@@ -1,4 +1,4 @@
-[lipu pini](lecon16.html) | [lipu lawa](lecons.html)
+[lipu pini](lecon16.md) | [lipu lawa](lecons.md)
 
 toki awen sona ni li pini.
 --------------------------
@@ -28,4 +28,4 @@ toki pona tawa jan ante. o pali e toki awen. o toki kepeken toki pona!
 toki pona li toki pona. mi wile e ni: jan mute li sona e ona. sina ken
 kama e ni.
 
-[lipu pini](lecon16.html) | [lipu lawa](lecons.html)
+[lipu pini](lecon16.md) | [lipu lawa](lecons.md)

@@ -1,5 +1,4 @@
-[précédent](lecon03.html) | [sommaire](lecons.html) |
-[suivant](lecon05.html)
+[précédent](lecon03.md) | [sommaire](lecons.md) | [suivant](lecon05.md)
 
 4. Adjectifs, adverbes et noms composés
 =======================================
@@ -137,5 +136,4 @@ Courage : si vous avez suivi correctement les trois dernières leçons,
 alors vous savez déjà un quart du vocabulaire de toki pona. Continuez
 comme ça!
 
-[précédent](lecon03.html) | [sommaire](lecons.html) |
-[suivant](lecon05.html)
+[précédent](lecon03.md) | [sommaire](lecons.md) | [suivant](lecon05.md)

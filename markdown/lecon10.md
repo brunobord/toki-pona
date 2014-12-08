@@ -1,5 +1,4 @@
-[précédent](lecon09.html) | [sommaire](lecons.html) |
-[suivant](lecon11.html)
+[précédent](lecon09.md) | [sommaire](lecons.md) | [suivant](lecon11.md)
 
 10. *pi*
 ========
@@ -201,5 +200,4 @@ Et maintenant essayez de traduire du toki pona en français.\
   wile pi jan ike li pakala e ijo.                 Réponse : La volonté des méchants ruine les choses.
   ------------------------------------------------ -----------------------------------------------------------
 
-[précédent](lecon09.html) | [sommaire](lecons.html) |
-[suivant](lecon11.html)
+[précédent](lecon09.md) | [sommaire](lecons.md) | [suivant](lecon11.md)

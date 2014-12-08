@@ -1,5 +1,4 @@
-[précédent](lecon05.html) | [sommaire](lecons.html) |
-[suivant](lecon07.html)
+[précédent](lecon05.md) | [sommaire](lecons.md) | [suivant](lecon07.md)
 
 6. Autres prépositions
 ======================
@@ -145,5 +144,4 @@ Et maintenant essayez de traduire du toki pona en français.\
   jan li lon insa tomo.           Réponse : Quelqu'un est à l'intérieur de la maison.
   ------------------------------- -----------------------------------------------------
 
-[précédent](lecon05.html) | [sommaire](lecons.html) |
-[suivant](lecon07.html)
+[précédent](lecon05.md) | [sommaire](lecons.md) | [suivant](lecon07.md)

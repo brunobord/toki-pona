@@ -1,5 +1,4 @@
-[précédent](lecon07.html) | [sommaire](lecons.html) |
-[suivant](lecon09.html)
+[précédent](lecon07.md) | [sommaire](lecons.md) | [suivant](lecon09.md)
 
 8. Genre; mots étrangers; ordres et interjections
 =================================================
@@ -175,5 +174,4 @@ Et maintenant essayez de traduire du toki pona en français.\
   wawa o poka sina.                         Réponse : Que la force soit avec toi.
   ----------------------------------------- ----------------------------------------------------
 
-[précédent](lecon07.html) | [sommaire](lecons.html) |
-[suivant](lecon09.html)
+[précédent](lecon07.md) | [sommaire](lecons.md) | [suivant](lecon09.md)

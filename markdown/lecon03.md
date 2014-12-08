@@ -1,5 +1,4 @@
-[précédent](lecon02.html) | [sommaire](lecons.html) |
-[suivant](lecon04.html)
+[précédent](lecon02.md) | [sommaire](lecons.md) | [suivant](lecon04.md)
 
 3. Complément d'objet direct
 ============================
@@ -89,5 +88,4 @@ Et maintenant essayez de traduire du toki pona en français.\
   pipi li wile moku e kili e telo.   Réponse : l'insecte veut manger le fruit et boire de l'eau.
   ---------------------------------- -------------------------------------------------------------
 
-[précédent](lecon02.html) | [sommaire](lecons.html) |
-[suivant](lecon04.html)
+[précédent](lecon02.md) | [sommaire](lecons.md) | [suivant](lecon04.md)

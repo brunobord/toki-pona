@@ -1,5 +1,4 @@
-[précédent](lecon15.html) | [sommaire](lecons.html) |
-[suivant](lecon17.html)
+[précédent](lecon15.md) | [sommaire](lecons.md) | [suivant](lecon17.md)
 
 16. *la*
 ========
@@ -137,5 +136,4 @@ Et maintenant essayez de traduire du toki pona en français.
   sina sona e toki ni la sina sona e toki pona!   Réponse : Si tu comprends cette parole tu connais le toki pona.
   ----------------------------------------------- -----------------------------------------------------------------
 
-[précédent](lecon15.html) | [sommaire](lecons.html) |
-[suivant](lecon17.html)
+[précédent](lecon15.md) | [sommaire](lecons.md) | [suivant](lecon17.md)

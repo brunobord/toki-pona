@@ -1,5 +1,4 @@
-[précédent](lecon12.html) | [sommaire](lecons.html) |
-[suivant](lecon14.html)
+[précédent](lecon12.md) | [sommaire](lecons.md) | [suivant](lecon14.md)
 
 13. Êtres vivants
 =================
@@ -124,5 +123,4 @@ Et maintenant essayez de traduire du toki pona en français.\
   mi lon ma kasi.                    Réponse : Je suis dans la forêt.
   ---------------------------------- ------------------------------------------
 
-[précédent](lecon12.html) | [sommaire](lecons.html) |
-[suivant](lecon14.html)
+[précédent](lecon12.md) | [sommaire](lecons.md) | [suivant](lecon14.md)

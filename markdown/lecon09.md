@@ -1,5 +1,4 @@
-[précédent](lecon08.html) | [sommaire](lecons.html) |
-[suivant](lecon10.html)
+[précédent](lecon08.md) | [sommaire](lecons.md) | [suivant](lecon10.md)
 
 9. Questions avec *seme*
 ========================
@@ -120,5 +119,4 @@ Et maintenant essayez de traduire du toki pona en français.\
   sina wile tawa ma seme?       Réponse : Dans quel pays veux-tu aller?
   ----------------------------- -----------------------------------------
 
-[précédent](lecon08.html) | [sommaire](lecons.html) |
-[suivant](lecon10.html)
+[précédent](lecon08.md) | [sommaire](lecons.md) | [suivant](lecon10.md)

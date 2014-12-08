@@ -1,5 +1,4 @@
-[précédent](lecon13.html) | [sommaire](lecons.html) |
-[suivant](lecon15.html)
+[précédent](lecon13.md) | [sommaire](lecons.md) | [suivant](lecon15.md)
 
 14. Le corps
 ============
@@ -143,5 +142,4 @@ Et maintenant essayez de traduire du toki pona en français.
   mi pilin e seli sijelo sina.                    Réponse : Je sens ta chaleur corporelle.
   ----------------------------------------------- ----------------------------------------------------
 
-[précédent](lecon13.html) | [sommaire](lecons.html) |
-[suivant](lecon15.html)
+[précédent](lecon13.md) | [sommaire](lecons.md) | [suivant](lecon15.md)

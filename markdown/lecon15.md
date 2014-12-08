@@ -1,5 +1,4 @@
-[précédent](lecon14.html) | [sommaire](lecons.html) |
-[suivant](lecon16.html)
+[précédent](lecon14.md) | [sommaire](lecons.md) | [suivant](lecon16.md)
 
 15. Nombres
 ===========
@@ -138,5 +137,4 @@ jan ni pi mani mute li jo e tomo tawa tu tu.
 
 Réponse : Cet homme riche a quatre voitures.
 
-[précédent](lecon14.html) | [sommaire](lecons.html) |
-[suivant](lecon16.html)
+[précédent](lecon14.md) | [sommaire](lecons.md) | [suivant](lecon16.md)
