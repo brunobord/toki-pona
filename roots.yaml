@@ -367,3 +367,9 @@ wile:
     vt: "to want, need, wish, have to, must, will, should"
     n: "desire, need, will"
     mod: necessary
+# these two words were added later
+pan:
+    n: "grains, cereal"
+esun:
+    n: "market, shop"
+
