@@ -1,0 +1,369 @@
+# Source: http://rowa.giso.de/languages/toki-pona/english/latex/Toki_Pona_English.html
+"a":
+    interj: "ah! ha! oh! ooh! aw! (emotion word)"
+"akesi":
+    n: "non-cute animal, reptile, amphibian, dinosaur, monster"
+"ala":
+    mod: "no, not, none, un-"
+    n: "nothingness, negation, zero"
+    interj: no!
+"ali / (ale)":
+    n: "everything, anything, life, the universe"
+    mod: "all, every, complete, whole"
+anpa:
+    n: "bottom, down, under, below, floor, beneath"
+    mod: "low, lower, bottom"
+    vt: "lower, down, defeat, overcome"
+ante:
+    n: difference
+    mod: different
+    cont: "otherwise, or else"
+    vt: "change, alter, modify"
+anu:
+    conj: or
+awen:
+    vi: "stay, wait, remain"
+    vt: keep
+    mod: "remaining, stationary, permanent, sedentary"
+e:
+    sep: "(introduces a direct object)"
+en:
+    conj: "and (used to coordinate head nouns)"
+ijo:
+    n: "thing, something, stuff, anything, object"
+    mod: "of something"
+    vt: objectify
+ike:
+    mod: "bad, evil, wrong, evil, overly complex, (figuratively) unhealthy"
+    interj: "oh dear! woe! alas!"
+    n: "negativity, evil, badness"
+    vt: "to make bad, to worsen, to have a negative effect upon"
+    vi: "to be bad, to suck"
+ilo:
+    n: "tool, device, machine, thing used for a specific purpose"
+insa:
+    n: "inside, inner world, centre, stomach"
+    mod: "internal, central"
+jaki:
+    mod: "dirty, gross, filthy"
+    n: "dirt, pollution, filth"
+    vt: "pollute, dirty"
+    interj: "ew! yuck!"
+jan:
+    n: "person, people, human, being, somebody, anybody"
+    mod: "personal, human, somebody's, of people"
+    vt: "personify, humanize, personalize"
+jelo:
+    mod: "yellow, light green"
+jo:
+    vt: "have, contain"
+    n: having
+    kama: "receive, get, take, obtain"
+kala:
+    n: "fish, sea creature"
+kalama:
+    n: "sound, noise, voice"
+    vi: "make noise"
+    vt: "sound, ring, play (an instrument)"
+kama:
+    n: "event, happening, chance, arrival, beginning"
+    mod: "coming, future"
+    vi: "come, become, arrive, happen, pursue actions to arrive to (a certain state), manage to, start to"
+    vt: "bring about, summon"
+kasi:
+    n: "plant, leaf, herb, tree, wood"
+ken:
+    n: "possibility, ability, power to do things, permission"
+    vi: "can, is able to, is allowed to, may, is possible"
+    vt: "make possible, enable, allow, permit"
+    cont: "it is possible that"
+kepeken:
+    vt: use
+    prep: with
+kili:
+    n: "fruit, pulpy vegetable, mushroom"
+kin:
+    mod: "also, too, even, indeed (emphasizes the word that follows)"
+kiwen:
+    n: "hard thing, rock, stone, metal, mineral, clay"
+    mod: "hard, solid, stone-like, made of stone or metal"
+ko:
+    n: "semi-solid substance (paste, powder, gum, etc.)"
+kon:
+    n: "air, wind, odour, soul"
+    mod: "air-like, ethereal, gaseous"
+kule:
+    n: "color, paint"
+    vt: "color, paint"
+    mod: colourful
+kulupu:
+    n: "group, community, society, company"
+    mod: "communal, shared, public, of the society"
+kute:
+    vt: "listen, hear"
+    mod: "auditory, hearing"
+la:
+    sep: "(between adverb or phrase of context and sentence)"
+lape:
+    n: "sleep, rest"
+    vi: "sleep, rest"
+    mod: "sleeping, of sleep"
+laso:
+    mod: "blue, blue-green"
+lawa:
+    n: "head, mind"
+    mod: "main, leading, in charge"
+    vt: "lead, control, rule, steer"
+len:
+    n: "clothing, cloth, fabric"
+lete:
+    n: cold
+    mod: "cold, uncooked"
+    vt: "cool down, chill, freeze"
+li:
+    sep: "(between any subject except mi and sina and its verb; also used to introduce a new verb for the same subject)"
+lili:
+    mod: "small, little, young, a bit, short, fes, less"
+    vt: "reduce, shorten, shrink, lessen"
+linja:
+    n: "long, very thin, floppy thing, e.g. string, rope, hair, thread, cord, chain"
+lipu:
+    n: "flat and bendable thing, e.g. paper, card, ticket"
+loje:
+    mod: red
+lon:
+    prep: "be located in/at/on"
+    vi: "be there, be present, be real/true, exist, be awake"
+luka:
+    n: "hand, arm"
+    mod: five
+lukin:
+    vt: "see, look at, watch, read"
+    vi: "look, watch out, pay attention"
+    mod: visual
+lupa:
+    n: "hole, orifice, window, door"
+ma:
+    n: "land, earth, country, (outdoor) area"
+mama:
+    n: "parent, mother, father"
+    mod: "of the parent, parental, maternal, fatherly"
+mani:
+    n: "money, material wealth, currency, dollar, capital"
+meli:
+    n: "woman, female, girl, wife, girlfriend"
+    mod: "female, feminine, womanly"
+mi:
+    n: "I, we"
+    mod: "my, our"
+mije:
+    n: "man, male, husband, boyfriend"
+    mod: "male, masculine, manly"
+moku:
+    n: "food, meal"
+    vt: "eat, drink, swallow, ingest, consume"
+moli:
+    n: death
+    mod: "dead, deadly, fatal"
+    vt: kill
+    vi: "die, be dead"
+monsi:
+    n: "back, rear end, butt, behind"
+    mod: "back, rear"
+mu:
+    interj: "woof! meow! moo! etc. (cute animal noise)"
+mun:
+    n: moon
+    mod: lunar
+musi:
+    n: "fun, playing, game, recreation, art, entertainment"
+    mod: "artful, fun, recreational"
+    vi: "play, have fun"
+    vt: "amuse, entertain"
+mute:
+    mod: "many, several, very, much, a lot, abundant, numerous, more"
+    n: "amount, quantity"
+    vt: "make many or much"
+nanpa:
+    n: number
+    oth: "-th (ordinal numbers)"
+nasa:
+    mod: "silly, crazy, foolish, drunk, strange, stupid, weird"
+    vt: "drive crazy, make weird"
+nasin:
+    n: "way, manner, custom, road, path, doctrine, system, method"
+nena:
+    n: "bump, hill, mountain, button, nose"
+ni:
+    mod: "this, that"
+nimi:
+    n: "word, name"
+noka:
+    n: "leg, foot"
+o:
+    sep: "O (vocative or imperative)"
+    interj: "hey! (calling somebody's attention)"
+oko:
+    n: eye
+olin:
+    n: love
+    mod: love
+    vt: "to love (a person)"
+ona:
+    n: "he, she, it, they"
+    mod: "his, her, its, their"
+open:
+    vt: "open, turn on"
+pakala:
+    n: "blunder, accident, mistake, destruction, damage, breaking"
+    vt: "screw up, fuck up, botch, ruin, break, hurt, injure, damage, bungle, spoil, ruin"
+    vi: "screw up, fall apart, break"
+    interj: damn! fuckk!
+pali:
+    n: "activity, work, deed, project"
+    mod: "active, work-related, operating, working"
+    vt: "do, make, build, create"
+    vi: "act, work, function"
+palisa:
+    n: "long, mostly hard object, e.g. rod, stick, branch"
+pana:
+    vt: "give, put, send, place, release, emit, cause"
+    n: "giving, transfer, exchange"
+pi:
+    sep: "of, belonging to"
+pilin:
+    n: "feelings, emotion, heart"
+    vi: feel
+    vt: "feel, think, sense, touch"
+pimeja:
+    mod: "black, dark"
+    n: "darkness, shadows"
+    vt: darken
+pini:
+    n: "end, tip"
+    mod: "completed, finished, past, done, ago"
+    vt: "finish, close, end, turn off"
+pipi:
+    n: "bug, insect, spider"
+poka:
+    n: "side, hip, next to"
+    mod: neighboring
+    prep: "in the accompaniment of, with"
+poki:
+    n: "container, box, bowl, cup, glass"
+pona:
+    n: "good, simplicity, positivity"
+    mod: "good, simple, positive, nice, correct, right"
+    interj: "great! good! thanks! OK! cool! yay!"
+    vt: "improve, fix, repair, make good"
+sama:
+    mod: "same, similar, equal, of equal status or position"
+    prep: "like, as, seem"
+    cont: "similarly, in the same way that"
+seli:
+    n: "fire, warmth, heat"
+    mod: "hot, warm, cooked"
+    vt: "heat, warm up, cook"
+selo:
+    n: "outside, surface, skin, shell, bark, shape, peel"
+seme:
+    oth: "what, which, wh- (question word)"
+sewi:
+    n: "high, up, above, top, over, on"
+    mod: "superior, elevated, religious, formal"
+sijelo:
+    n: "body, physical state"
+sike:
+    n: "circle, wheel, sphere, ball, cycle"
+    mod: "round, cyclical"
+sin:
+    mod: "new, fresh, another, more"
+    vt: "renew, renovate, freshen"
+sina:
+    n: you
+    mod: your
+sinpin:
+    n: "front, chest, torso, wall"
+sitelen:
+    n: "picture, image"
+    vt: "draw, write"
+sona:
+    n: "knowledge, wisdom, intelligence, understanding"
+    vt: "know, understand, know how to"
+    vi: "know, understand"
+    kama: "learn, study"
+soweli:
+    n: "animal, especially land mammal, lovable animal"
+suli:
+    mod: "big, tall, long, adult, important"
+    vt: "enlarge, lengthen"
+    n: size
+suno:
+    n: "sun, light"
+supa:
+    n: "horizontal surface, e.g furniture, table, chair, pillow, floor"
+suwi:
+    n: "candy, sweet food"
+    mod: "sweet, cute"
+    vt: sweeten
+tan:
+    prep: "from, by, because of, since"
+    n: "origin, cause"
+taso:
+    mod: "only, sole"
+    conj: but
+tawa:
+    prep: "to, in order to, towards, for, until"
+    n: "movement, transportation"
+    mod: "moving, mobile"
+    vi: "go, leave, walk, travel, move"
+    vt: "move, displace"
+telo:
+    n: "water, liquid, juice, sauce"
+    vt: "water, wash with water"
+tenpo:
+    n: "time, period of time, moment, duration, situation"
+toki:
+    n: "language, talking, speech, communication"
+    vt: say
+    vi: "talk, chat, communicate"
+    interj: hello! hi!
+tomo:
+    n: "indoor constructed space, e.g. house, home, room, building"
+    mod: "urban, domestic, household"
+tu:
+    mod: two
+    n: "duo, pair"
+    vt: "double, separate/cut/divide in two"
+unpa:
+    n: "sex, sexuality"
+    mod: "erotic, sexual"
+    vt: "have sex with, sleep with, fuck"
+    vi: "have sex"
+uta:
+    n: mouth
+    mod: oral
+utala:
+    n: "conflict, disharmony, competition, fight, war, battle, attack, blow, argument, physical or verbal violence"
+    vt: "hit, strike, attack, compete against"
+walo:
+    mod: "white, light (colour)"
+    n: "white thing/part, whiteness, lightness"
+wan:
+    mod: "one, a"
+    n: "unit, element, particle, part, piece"
+    vt: "unite, make one"
+waso:
+    n: "bird, winged animal"
+wawa:
+    n: "energy, strength, power"
+    mod: "energetic, strong, fierce, intense, sure, confident"
+    vt: "strengthen, energize, empower"
+weka:
+    mod: "away, absent, missing"
+    n: absence
+    vt: "throw away, remove, get rid of"
+wile:
+    vt: "to want, need, wish, have to, must, will, should"
+    n: "desire, need, will"
+    mod: necessary
