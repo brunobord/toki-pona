@@ -1,13 +1,16 @@
 # Source: http://rowa.giso.de/languages/toki-pona/english/latex/Toki_Pona_English.html
-"a":
+a:
     interj: "ah! ha! oh! ooh! aw! (emotion word)"
-"akesi":
+akesi:
     n: "non-cute animal, reptile, amphibian, dinosaur, monster"
-"ala":
+ala:
     mod: "no, not, none, un-"
     n: "nothingness, negation, zero"
     interj: no!
-"ali / (ale)":
+ali:
+    n: "everything, anything, life, the universe"
+    mod: "all, every, complete, whole"
+ale:  # this root word is a duplicate of "ali"
     n: "everything, anything, life, the universe"
     mod: "all, every, complete, whole"
 anpa:
