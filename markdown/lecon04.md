@@ -6,15 +6,17 @@
 Vocabulaire
 -----------
 
-  -------------------------------------- -----------------------------------------------
-  **ike** - mal, mauvais, compliqué\     **nasa** - fou, stupide, idiot, bizarre\
-   **jaki** - sale; ordure\               **seli** - chaud\
-   **lawa** - principal; tête; guider\    **sewi** - haut, supérieur; ciel\
-   **len** - vêtement; vêtir\             **tomo** - maison, habitation, construction\
-   **lili** - petit\                      **utala** - guerre, bataille; combattre\
-   **mute** - beaucoup, nombreux\          
-                                         
-  -------------------------------------- -----------------------------------------------
+* **ike** - mal, mauvais, compliqué
+* **jaki** - sale; ordure
+* **lawa** - principal; tête; guider
+* **len** - vêtement; vêtir
+* **lili** - petit
+* **mute** - beaucoup, nombreux
+* **nasa** - fou, stupide, idiot, bizarre
+* **seli** - chaud
+* **sewi** - haut, supérieur; ciel
+* **tomo** - maison, habitation, construction
+* **utala** - guerre, bataille; combattre
 
 Qualificatifs
 -------------
@@ -101,33 +103,35 @@ Exercices
 
 traduisez ce poème de jan Pije.
 
-> mi jo e kili.\
->  ona li pona li lili.\
+> mi jo e kili.  
+>  ona li pona li lili.  
 >  mi moku lili e kili lili.
 
-Traduction ligne 1J'ai un fruit.\
- Traduction ligne 2Il est bon et petit.\
- Traduction ligne 3Je mange un peu du petit fruit.
+Traduction:
+
+> J'ai un fruit.  
+> Il est bon et petit.  
+> Je mange un peu du petit fruit.
 
 Traduisez ces phrases du français au toki pona.
 
-  ----------------------------------------- ---------------------------------------------
-  Le chef a bu de l'eau sale.               Réponse : jan lawa li moku e telo jaki.
-  J'ai besoin d'une fourchette.             Réponse : mi wile e ilo moku.
-  Un ennemi les attaque.                    Réponse : jan ike li utala e ona mute.
-  Ce méchant homme a d'étrange vêtements.   Réponse : jan ike ni li jo e len nasa.
-  Nous avons bu beaucoup de vodka.          Réponse : mi mute li moku e telo nasa mute.
-  Les enfants regardent les adultes.        Réponse : jan lili li lukin e jan suli.
-  ----------------------------------------- ---------------------------------------------
+| Français                                | Réponses                |
+| --------------------------------------- | -------------------------
+| Le chef a bu de l'eau sale.             | jan lawa li moku e telo jaki.
+| J'ai besoin d'une fourchette.           | mi wile e ilo moku.
+| Un ennemi les attaque.                  | jan ike li utala e ona mute.
+| Ce méchant homme a d'étrange vêtements. | jan ike ni li jo e len nasa.
+| Nous avons bu beaucoup de vodka.        | mi mute li moku e telo nasa mute.
+| Les enfants regardent les adultes.      | jan lili li lukin e jan suli.
 
 Et maintenant essayez de traduire du toki pona en français.
 
-  ------------------------------- -----------------------------------------------------
-  mi lukin sewi e tomo suli.      Réponse : Je lève les yeux vers le grand immeuble.
-  seli suno li seli e tomo mi.    Réponse : La chaleur du soleil réchauffe ma maison.
-  jan lili li wile e telo kili.   Réponse : L'enfant veut du jus de fruit.
-  ona mute li nasa e jan suli.    Réponse : Ils ont rendu fous les adultes.
-  ------------------------------- -----------------------------------------------------
+| Français                      | Réponses                |
+| ----------------------------- | -------------------------
+| mi lukin sewi e tomo suli.    |  Je lève les yeux vers le grand immeuble.
+| seli suno li seli e tomo mi.  |  La chaleur du soleil réchauffe ma maison.
+| jan lili li wile e telo kili. |  L'enfant veut du jus de fruit.
+| ona mute li nasa e jan suli.  |  Ils ont rendu fous les adultes.
 
 (Dans cette dernière phrase, remarquez comment *nasa*, typiquement un
 adjectif, est transformé en verbe transitif.)
