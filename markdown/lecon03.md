@@ -6,22 +6,27 @@
 Vocabulaire
 -----------
 
-+--------------------------------------+--------------------------------------+
-| **Noms**\                            | **Verbes**\                          |
-|  **ilo** - outil, machine\           |  **jo** - avoir; possession\         |
-|  **kili** - fruit, légume\           |  **lukin** - voir, regarder; vision, |
-|  **ni** - ceci, cela\                | regard\                              |
-|  **ona** - il, elle\                 |  **pakala** - abimer, détruire;      |
-|  **ma** - pays, région, terre\       | accident\                            |
-|  **pipi** - insecte, araignée\       |  **unpa** - avoir un rapport sexuel  |
-|  **ijo** - chose, machin\            | avec; sexe; sexuel\                  |
-|                                      |  **wile** - vouloir, avoir besoin    |
-|                                      | de, devoir; désir                    |
-|                                      |                                      |
-|                                      | **Particule**\                       |
-|                                      |  **e** - introduit le complément     |
-|                                      | d'objet direct                       |
-+--------------------------------------+--------------------------------------+
+**Noms**
+
+* **ilo** - outil, machine
+* **kili** - fruit, légume
+* **ni** - ceci, cela
+* **ona** - il, elle
+* **ma** - pays, région, terre
+* **pipi** - insecte, araignée
+* **ijo** - chose, machin
+
+**Verbe**
+
+* **jo** - avoir; possession
+* **lukin** - voir, regarder; vision; regard
+* **pakala** - abimer, détruire; accident
+* **unpa** - avoir un rapport sexuel avec; sexe; sexuel
+* **wile** - vouloir, avoir besoin de, devoir; désir
+
+**Particule**
+
+* **e** - introduit le complément d'objet direct
 
 Complément d'objet direct avec *e*
 ----------------------------------
@@ -53,8 +58,7 @@ faut s'aider du contexte.
 Il faut noter que *e* introduit le complément d'objet direct du verbe à
 l'infinitif, et non l'infinitif lui même :
 
--   **mi wile e pakala e sina.** - Je veux la destruction et (je veux)
-    toi.
+-   **mi wile e pakala e sina.** - Je veux la destruction et (je veux) toi.
 
 Plusieurs compléments d'objet direct
 ------------------------------------
@@ -68,24 +72,24 @@ verbe, chacun précédé de *e*.
 Exercices
 ---------
 
-Traduisez ces phrases du français au toki pona.\
+Traduisez ces phrases du français au toki pona.
 
-  ---------------------------------- --------------------------------------
-  J'ai un outil.                     Réponse : mi jo e ilo.
-  Elle mange des fruits.             Réponse : ona li moku e kili.
-  Quelque-chose me regarde.          Réponse : ijo li lukin e mi.
-  Il veut écrabouiller l'araignée.   Réponse : ona li wile pakala e pipi.
-  L'insecte a soif.                  Réponse : pipi li wile moku e telo.
-  Tu devrais boire de l'eau.         Réponse : sina wile moku e telo.
-  ---------------------------------- --------------------------------------
+| Français                           | Réponses                |
+| ---------------------------------- | -------------------------
+| J'ai un outil.                     | mi jo e ilo.
+| Elle mange des fruits.             | ona li moku e kili.
+| Quelque-chose me regarde.          | ijo li lukin e mi.
+| Il veut écrabouiller l'araignée.   | ona li wile pakala e pipi.
+| L'insecte a soif.                  | pipi li wile moku e telo.
+| Tu devrais boire de l'eau.         | sina wile moku e telo.
 
-Et maintenant essayez de traduire du toki pona en français.\
+Et maintenant essayez de traduire du toki pona en français.
 
-  ---------------------------------- -------------------------------------------------------------
-  mi lukin e ni.                     Réponse : Je regarde cela.
-  mi wile unpa e ona.                Réponse : je veux faire l'amour avec lui/elle.
-  jan li wile jo e ma.               Réponse : les gens veulent posséder la terre.
-  pipi li wile moku e kili e telo.   Réponse : l'insecte veut manger le fruit et boire de l'eau.
-  ---------------------------------- -------------------------------------------------------------
+| Français                           | Réponses                |
+| ---------------------------------- | -------------------------
+| mi lukin e ni.                     | Je regarde cela.
+| mi wile unpa e ona.                | je veux faire l'amour avec lui/elle.
+| jan li wile jo e ma.               | les gens veulent posséder la terre.
+| pipi li wile moku e kili e telo.   | l'insecte veut manger le fruit et boire de l'eau.
 
 [précédent](lecon02.md) | [sommaire](lecons.md) | [suivant](lecon04.md)
