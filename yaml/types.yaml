@@ -1,0 +1,12 @@
+# different types of words
+n: head noun
+mod: modifier (adjective or adverb)
+sep: separator
+vt: "verb, transitive (normally used with e)"
+vi: "verb, intransitive"
+interj: interjection
+prep: quasi-preposition
+conj: conjunction
+kama: compound verb preceded by kama
+cont: context word used before la
+oth: "special, other word"

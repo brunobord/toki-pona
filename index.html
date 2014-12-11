@@ -36,7 +36,7 @@ textarea {
 <script>
 var roots = {}
 $(document).ready(function() {
-	$.get('roots.yaml', function(data) {
+	$.get('yaml/roots.yaml', function(data) {
 		var _roots = jsyaml.load(data);
 		for (var root in _roots) {
 			var defs = _roots[root];
