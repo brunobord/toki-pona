@@ -1,4 +1,16 @@
+# toki pona
+
+## Transcripteur
+
+En allant à [cette adresse](http://brunobord.github.io/toki-pona/), on tape un
+mot ou une phrase *toki pona* et on obtient en-dessous la phrase avec, en survol,
+les différentes significations possibles (en anglais pour le momment).
+
 # Leçons de toki pona
+
+(WIP)
+
+Adresse: https://github.com/brunobord/toki-pona/tree/gh-pages/markdown
 
 Ceci est une extraction des [leçons de toki pona](http://lvogel.free.fr/tokipona/),
 par Laurent Vogel.
