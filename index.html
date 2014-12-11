@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>toki pona</title>
+	<link rel="shortcut icon" href="tokipona.png">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic|Slabo+27px' rel='stylesheet' type='text/css'>
+<style>
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin: auto;
+	width: 690px;
+}
+h1 {
+	font-size: 1.6em;
+	border-bottom: 1px #aaa solid;
+}
+#result a {
+	text-decoration: none;
+	color: #555;
+}
+textarea {
+	font-family: 'Slabo 27px', serif;
+}
+</style>
+</head>
+<body>
+<h1>toki pona</h1>
+<textarea id="source" cols="60" rows="7"></textarea>
+<hr>
+<div id="result">
+</div>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.0.2/js-yaml.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script>
+var roots = {}
+$(document).ready(function() {
+	$.get('roots.yaml', function(data) {
+		var _roots = jsyaml.load(data);
+		for (var root in _roots) {
+			var defs = _roots[root];
+			var label = new Array();
+			for (var _type in defs) {
+				var def = defs[_type];
+				label.push('*' + _type + "*: " + def);
+			}
+			roots[root] = label.join('\n');
+		}
+	});
+
+	$('#source').keyup(function() {
+		var result = [];
+		var source = $(this).val();
+		source = source.replace('\n', '<br/>');
+		var words = source.split(' ');
+		for (var i in words) {
+			word = words[i];
+			var root = word.match(/[a-zA-Z]+/);
+			if (roots[root] !== undefined) {
+				word = '<a href="#" title="'+roots[root]+'">'+ word +'</a>';
+			}
+			result.push(word);
+		}
+		$('#result').html(result.join(' '));
+	})
+});
+</script>
+</body>
+</html>
