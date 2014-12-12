@@ -26,18 +26,27 @@ textarea {
 </head>
 <body>
 <h1>toki pona</h1>
+<h2>put some text here</h2>
 <textarea id="source" cols="60" rows="7"></textarea>
 <hr>
 <div id="result">
 </div>
 
+<h2>search engine</h2>
+
+<div id="types"></div>
+<dl id="search-result"></dl>
+
 <script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.0.2/js-yaml.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script>
-var roots = {}
+var _root = {}
+var roots = {};
+var types = {};
+var searchType;
 $(document).ready(function() {
 	$.get('yaml/roots.yaml', function(data) {
-		var _roots = jsyaml.load(data);
+		_roots = jsyaml.load(data);
 		for (var root in _roots) {
 			var defs = _roots[root];
 			var label = new Array();
@@ -47,7 +56,43 @@ $(document).ready(function() {
 			}
 			roots[root] = label.join('\n');
 		}
+		updateSearchResult();
 	});
+
+	function updateSearchResult() {
+		$('#search-result').html('');
+		for (var root in _roots) {
+			var label = new Array();
+			var defs = _roots[root];
+			for (var _type in defs) {
+				var def = defs[_type];
+				if (_type === searchType || searchType === undefined) {
+					label.push('<dd>*' + _type + "*: " + def + '</dd>');
+				}
+			}
+			if (label.length > 0) {
+				$('#search-result').append('<dt>'+root+'</dt>'+label.join('\n'))
+			}
+		}
+	}
+
+	$.get('yaml/types.yaml', function(data) {
+		types = jsyaml.load(data);
+		var links = new Array();
+		for (var _type in types) {
+			var label = types[_type];
+			links.push('<a href="#" class="types" id="'+_type+'" title="'+label+'">'+_type+'</a>');
+		}
+		$('#types').html(links.join(' | '));
+		$('.types').click(function() {
+			if (searchType === $(this).attr('id')) {
+				searchType = undefined;
+			} else {
+				searchType = $(this).attr('id');
+			}
+			updateSearchResult();
+		})
+	})
 
 	$('#source').keyup(function() {
 		var result = [];
