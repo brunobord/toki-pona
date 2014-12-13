@@ -25,6 +25,9 @@ textarea {
 dt {
 	font-weight: bold;
 }
+.highlighted {
+	background-color: #ff0;
+}
 </style>
 </head>
 <body>
@@ -88,9 +91,11 @@ $(document).ready(function() {
 		}
 		$('#types').html(links.join(' | '));
 		$('.types').click(function() {
+			$('.types').removeClass("highlighted");
 			if (searchType === $(this).attr('id')) {
 				searchType = undefined;
 			} else {
+				$(this).addClass('highlighted');
 				searchType = $(this).attr('id');
 			}
 			updateSearchResult();
