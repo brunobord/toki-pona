@@ -22,6 +22,9 @@ h1 {
 textarea {
 	font-family: 'Slabo 27px', serif;
 }
+dt {
+	font-weight: bold;
+}
 </style>
 </head>
 <body>
@@ -67,7 +70,7 @@ $(document).ready(function() {
 			for (var _type in defs) {
 				var def = defs[_type];
 				if (_type === searchType || searchType === undefined) {
-					label.push('<dd>*' + _type + "*: " + def + '</dd>');
+					label.push('<dd><em>' + _type + "</em>: " + def + '</dd>');
 				}
 			}
 			if (label.length > 0) {
