@@ -40,7 +40,10 @@ dt {
 
 <h2>search engine</h2>
 
-<div id="types"></div>
+<div>
+	<span id="types"></span>
+	<input id="search-box" type="text" />
+</div>
 <dl id="search-result"></dl>
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/js-yaml/3.0.2/js-yaml.min.js"></script>
@@ -49,7 +52,11 @@ dt {
 var _root = {}
 var roots = {};
 var types = {};
-var searchType;
+var searchType, searchTerm;
+String.prototype.startsWith = function (str){
+    return this.indexOf(str) == 0;
+ };
+
 $(document).ready(function() {
 	$.get('yaml/roots.yaml', function(data) {
 		_roots = jsyaml.load(data);
@@ -77,7 +84,9 @@ $(document).ready(function() {
 				}
 			}
 			if (label.length > 0) {
-				$('#search-result').append('<dt>'+root+'</dt>'+label.join('\n'))
+				if (searchTerm === undefined || searchTerm === '' || root.startsWith(searchTerm)) {
+					$('#search-result').append('<dt>'+root+'</dt>'+label.join('\n'))
+				}
 			}
 		}
 	}
@@ -116,7 +125,13 @@ $(document).ready(function() {
 			result.push(word);
 		}
 		$('#result').html(result.join(' '));
-	})
+	});
+
+	$('#search-box').keyup(function() {
+		searchTerm = $(this).val();
+		updateSearchResult();
+	});
+
 });
 </script>
 </body>
